@@ -3,7 +3,7 @@ body{
 }
 nav{
     background-color: white;
-    height: 49px;
+    /* height: 49px; */
     width: 100%;
     margin-top: -7px;
 }
@@ -90,6 +90,7 @@ margin-left: 4px;
 #imm{
     margin-left: 235px;
     margin-top: 25px;
+
 }
 /* *{
     border: 1px solid;
@@ -205,3 +206,15 @@ margin-left: 4px;
 #g{
     margin-left: 50px;
 }
+@media(max-width:500px){
+    .cotainer{
+        display: flex;
+    }
+}
+@media(min-width:400px){
+    .conatiner{
+        display: none;
+    }
+} 
+
+  
