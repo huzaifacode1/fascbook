@@ -32,7 +32,7 @@ margin-left: 4px;
     width: 221px;
     height: 1000px;
     overflow: scroll;
-    margin-top: -1252px;
+    margin-top: -2052px;
   }
   #element {
     color: #3881ff;
@@ -83,9 +83,10 @@ margin-left: 4px;
 }
 
 #imga{
-    border-radius: 50%;
+    border-radius: 100%;
     margin-left: 1172px;
     margin-top: -75px;
+    padding-bottom: 24px;
 }
 #imm{
     margin-left: 235px;
@@ -206,15 +207,39 @@ margin-left: 4px;
 #g{
     margin-left: 50px;
 }
-@media(max-width:500px){
-    .cotainer{
-        display: flex;
-    }
+.center{
+    justify-content: center;
 }
-@media(min-width:400px){
+#migg{
+
+    margin-left: 265px;
+}
+/* @media(min-width:400px){
     .conatiner{
         display: none;
     }
-} 
+} */
+ 
+@media(max-width:876px){
+    .conatiner{
+        display: none;
+    }
+    .center{
+        position: absolute;
+    }
+#icon2{
+    display: none;
+}
+#fsearch{
+    display: none;
+}
+#icon{
+    justify-content: center;
+    position: fixed;
+    margin-left: 175px;
+}
+}
+
+  
 
   
