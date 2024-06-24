@@ -1,0 +1,245 @@
+body{
+    background-color: rgb(243, 243, 243);
+}
+nav{
+    background-color: white;
+    /* height: 49px; */
+    width: 100%;
+    margin-top: -7px;
+}
+#icon{
+    margin-left: 108px;
+}
+#icon1{
+    margin-left:100px;
+}
+#img{
+border-radius: 50%;
+margin-left: 4px;
+}
+.fa-solid, .fas {
+    font-weight: 900;
+    margin-left: 30px;
+    margin-left: 84px;
+    
+}
+#icon2{
+    margin-left: 0px;
+    padding-left: 20px;
+}
+#scrool{
+    background-color: rgb(255, 255, 255);
+    width: 221px;
+    height: 1000px;
+    overflow: scroll;
+    margin-top: -2052px;
+  }
+  #element {
+    color: #3881ff;
+    margin-left: 0px;
+}
+
+@media screen and (min-width: 480px) {
+
+  }
+  .fa-brands, .fab {
+    font-weight: 400;
+    padding-left: 13px;
+}
+#hr{
+    margin:-511px 0px 20px 20px;
+    width: 180px;
+}
+#a{
+    margin-left: 72px;
+}
+#game{
+    border-radius: 13px;
+}
+    #pag {
+        margin-top: -33px;
+        margin-left: 63px;
+        width: 80px;
+    }
+    #game:hover{
+        background-color: rgb(182, 182, 182);
+        cursor: pointer;
+    } 
+    #pag:hover{
+        background-color: rgb(182, 182, 182) ;
+    } 
+    #gama:hover{
+        background-color: rgb(182, 182, 182) ;
+    }
+    #gama {
+        width: 196px;
+        height: 69px;
+    }
+#image{
+    margin: 10px 10px 10px 10px;
+}
+#text{
+    margin-left: 10px;
+}
+
+#imga{
+    border-radius: 100%;
+    margin-left: 1172px;
+    margin-top: -75px;
+    padding-bottom: 24px;
+}
+#imm{
+    margin-left: 235px;
+    margin-top: 25px;
+
+}
+/* *{
+    border: 1px solid;
+} */
+#imm:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+#im:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+#i1 {
+    margin-left: 428px;
+    margin-top: 50px;
+
+}
+#input2 {
+    width: 289px;
+    height: 35px;
+    border-radius: 20px;
+}
+#id1{
+    height: 40px;
+    width: 40px;
+    border: 1px solid rgb(197, 197, 197);
+    background-color: rgb(197, 197, 197);
+    margin-left: 1023px;
+    margin-top: -19px;
+    border-radius: 50%;
+}
+#idd1{
+
+        margin:7px 13px 15px 10px;
+   
+}
+#id2{
+    height: 40px;
+    width: 40px;
+    border: 1px solid rgb(197, 197, 197);
+    background-color: rgb(197, 197, 197);
+    margin-left: 1069px;
+    margin-top: -41px;
+    border-radius: 50%;
+}
+#idd2{
+
+    margin: 10px 13px 15px 0px;
+
+}
+#idd3{
+
+    margin: 9px 13px 15px 13px;
+   
+}
+
+#id3{
+    height: 40px;
+    width: 40px;
+    border: 1px solid rgb(197, 197, 197);
+    background-color: rgb(197, 197, 197);
+    margin-left: 1117px;
+    margin-top: -42px;
+    border-radius: 50%;
+}
+#idd3{
+
+        margin:7px 13px 15px 10px;
+   
+}
+#imdd{
+    margin-left: 260px;
+}
+#imdd:hover{
+    cursor: pointer;
+}
+#ii{
+    margin:39px 16px 10px 263px;
+}
+#ii:hover{
+    cursor: pointer;
+}
+#mm{
+    margin: -760px -15px 386px 960px;
+}
+#mm:hover{
+    cursor: pointer;
+}
+#khatam{
+    margin:-790px -8px 2px 1031px;
+}
+#khalas{
+    margin:39px 10px 10px 1040px;
+}
+#a{
+    margin:38px 10px 10px 1040px;
+}
+#b{
+    margin:34px 10px 10px 1040px;
+}
+#c{
+    margin:30px 10px 10px 1040px;
+}
+#d{
+    margin:34px 10px 10px 1040px;
+}
+#e{
+    margin:34px 10px 10px 1040px;
+}
+#f{
+    margin:32px 10px 10px 1040px;
+}
+#g{
+    margin-left: 50px;
+}
+.center{
+    justify-content: center;
+}
+#migg{
+
+    margin-left: 265px;
+}
+/* @media(min-width:400px){
+    .conatiner{
+        display: none;
+    }
+} */
+ 
+@media(max-width:876px){
+    .conatiner{
+        display: none;
+    }
+    .center{
+        position: absolute;
+    }
+#icon2{
+    display: none;
+}
+#fsearch{
+    display: none;
+}
+#icon{
+    justify-content: center;
+    position: fixed;
+    margin-left: 175px;
+}
+}
+
+  
+
+  
